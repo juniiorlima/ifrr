@@ -8,5 +8,5 @@
 	* [Estrutura de Dados II](https://github.com/juniiorlima/ifrr/tree/master/modulo%203/2016 1/estrutura de dados)
 		
 		* [Programação Orientada à Objetos](https://github.com/juniiorlima/ifrr/tree/master/modulo%203/2016 1/poo)
-		
-			> __Criando nosso primeiro programa Java__
+
+			> __[Criando nosso primeiro programa Java](https://github.com/juniiorlima/ifrr/tree/master/modulo%203/2016 1/poo/atividade 1)__
